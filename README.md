@@ -85,3 +85,13 @@ The analysis produced several important business insights:
 This project successfully demonstrated the implementation of big data analysis using PySpark. The dataset was processed efficiently using Spark DataFrames, and meaningful insights were generated through category-wise and region-wise analysis. The use of PySpark helped in understanding how large-scale data can be analyzed quickly and effectively. Visualization techniques further improved the understanding of sales trends and business performance. Overall, this project provided practical experience in big data technologies, data processing, and business analytics using Python and PySpark.
 
 
+
+*OUTPUT_PICTURE*
+
+<img width="1357" height="840" alt="Image" src="https://github.com/user-attachments/assets/24da8cf1-669d-471d-aa08-1f96a3a24a47" />
+
+<img width="1308" height="822" alt="Image" src="https://github.com/user-attachments/assets/bd7ad45c-815d-46c1-ae36-70bc862f8083" />
+
+<img width="1277" height="815" alt="Image" src="https://github.com/user-attachments/assets/dcc319c2-ed53-4d4b-8f53-96c54211d8a0" />
+
+<img width="1297" height="763" alt="Image" src="https://github.com/user-attachments/assets/9c59fa86-80b4-4d90-ac80-d2061eb26d74" />

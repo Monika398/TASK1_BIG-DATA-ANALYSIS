@@ -14,6 +14,8 @@
 
 *DESCRIPTION OF TASK1*
 
+*Note: The notebook file opens correctly in Google Colab. If GitHub does not render the notebook preview, please download `codetech_task1.ipynb` and open it in Google Colab.*
+
 # BIG DATA ANALYSIS USING PYSPARK
 
 ## Objective
